@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+shift+f"], "command": "code_formatter" },
+	{ "keys": ["super+shift+o"], "command": "find_use" },
+]

@@ -1,0 +1,8 @@
+{
+    "python_interpreter": "python",
+    "auto_python_builder_enabled": false,
+    "extra_paths":
+    [
+        "/usr/local/lib/python2.7/site-packages",
+    ],
+}
